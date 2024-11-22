@@ -1,0 +1,45 @@
+.conoce-mas-section{
+    background-color: #72cef3;
+    transform: skew(0, -3deg);
+}
+    .conoce-mas-section-main{
+        transform: skew(0, 3deg);
+    }
+
+    .conoce-mas-section-main img{
+        margin: 0 auto;
+    }
+
+.card-office{
+    transform: skew(0, -6deg);
+    height: 500px;
+}
+
+    a:has(.card-office){
+        text-decoration: none;
+    }
+
+    .card-office > div{
+        position: relative;
+        top: -20px;
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        transform: skew(0, 6deg);
+        transition: transform .5s ease;
+        height: 600px;
+    }
+
+    .card-office > div:hover{
+        transform: scale(1.1, 1.1) skew(0, 6deg);
+    }
+
+    .card-title{
+        padding-top: 1rem;
+        padding-bottom: 2rem;
+        margin-top: -2rem;
+        text-align: center;
+        font-weight: 600;
+        font-size: 1.2rem;
+    }
+

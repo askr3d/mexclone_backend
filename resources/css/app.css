@@ -1,0 +1,60 @@
+.logo-mexrentacar{
+    height: 130%;
+    top: -15%;
+}
+.grow-animation{
+    transition: transform .6s ease;
+    transform: scale(1,1);
+}
+.grow-animation:hover{
+    transform: scale(1.2, 1.2);
+}
+.text-gray-700{
+    color: #404040;
+}
+.text-lg{
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+}
+
+.line-bottom-slider{
+    position: absolute;
+    height: 300px;
+    width: 100%;
+    bottom: 0;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.text-brand-primary{
+    color: #006FB5;
+}
+
+.bg-brand-primary{
+    background-color: #006FB5;
+}
+
+.border-dark-primary{
+    border-color: #12428A;
+}
+
+.text-color-subtitle{
+    color: #006fb5;
+}
+
+.text-dark-primary{
+    color: #12428A;
+}
+
+.border-focus-none{
+    outline: none;
+}
+
+.border-focus-none:focus::placeholder{
+    color: #006FB5;
+}
+
+.bg-dark-primary{
+    background-color: #12428A;
+}

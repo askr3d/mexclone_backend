@@ -1,0 +1,13 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/app/home/script.js": "/js/app/home/script.js",
+    "/css/app.css": "/css/app.css",
+    "/css/app/home/style.css": "/css/app/home/style.css",
+    "/css/bicons.css": "/css/bicons.css",
+    "/js/datatable.js": "/js/datatable.js",
+    "/js/sweetalert.js": "/js/sweetalert.js",
+    "/js/toasty.js": "/js/toasty.js",
+    "/css/sweetalert.css": "/css/sweetalert.css",
+    "/css/datatable.css": "/css/datatable.css",
+    "/css/toasty.css": "/css/toasty.css"
+}
